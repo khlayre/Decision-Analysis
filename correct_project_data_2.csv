@@ -1,0 +1,406 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q1,Q1a,Q2,Q2a,Q3,Q3a,Q4,Q4a,Q5,Q5a,Q6,Q6a,Q7,Q7a,Q8,Q8a,Q9,Q9a,Q10,Q10a,Q11,Q11a,Q12,Q12a,Q13,Q13a,Q14,Q14a,Q15,Q15a,Q16,Q16a,Q17,Q17a,Q18,Q18a,Q19,Q19a,Q20,Q20a,Q21,Q21a,Q22,Q22a,Q23,Q23a,Q24,Q24a,Q25,Q26,Q27
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,"When choosing a car to buy, which is more important: Cost or Features?","Based on the answer above, what is the strength of your preference? - preference","When choosing a car to buy, which is more important: Cost or Durability?","Based on the answer above, what is the strength of your preference? - 1","Which of these is more important when choosing a car to buy, Cost or Brand?","Based on the answer above, what is the strength of your preference? - preference","When choosing a car to buy, which is more important: Features or Durability","Based on the answer above, what is the strength of your preference? - 1","When choosing a car to buy, which is more important: Features or Brand?","Based on the answer above, what is the strength of your preference? - 1","Which is more important when choosing a car to buy, Durability or Brand?","Based on the answer above, what is the strength of your preference? - 1","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance for criteria when choosing a car to buy. These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Features
+        
+      
+      
+       Durability
+        
+      
+      
+       Brand
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Cost?","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance for criteria when choosing a car to buy. These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Features
+        
+      
+      
+       Durability
+        
+      
+      
+       Brand
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Features?","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance for criteria when choosing a car to buy. These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Features
+        
+      
+      
+       Durability
+        
+      
+      
+       Brand
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Durability?","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance for criteria when choosing a car to buy. These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Features
+        
+      
+      
+       Durability
+        
+      
+      
+       Brand
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Brand?","When choosing a Fast Fashion Brand to shop with, which is more important: Cost or Ethical Supply Chain?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Fast Fashion Brand to shop with, which is more important:  Cost or Range of Products?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Fast Fashion Brand to shop with, which is more important:  Cost or Quality?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Fast Fashion Brand to shop with, which is more important:  Ethical Supply Chain or Range of Products?","Based on the answer above, what is the strength of your preference? - 4","When choosing a Fast Fashion Brand to shop with, which is more important: Ethical Supply Chain or Quality?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Fast Fashion Brand to shop with, which is more important:   Range of Products or Quality?","Based on the answer above, what is the strength of your preference? - 1","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ethical Supply Chain
+        
+      
+      
+       Range of Products
+        
+      
+      
+       Quality
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Cost?","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ethical Supply Chain
+        
+      
+      
+       Range of Products
+        
+      
+      
+       Quality
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Ethical SupplyChain?","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ethical Supply Chain
+        
+      
+      
+       Range of Products
+        
+      
+      
+       Quality
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Range of Products?","Debug messages will appear here.
+
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ethical Supply Chain
+        
+      
+      
+       Range of Products
+        
+      
+      
+       Quality
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Quality?","When choosing a Holiday Destination, which is more important: Cost or Ease of Entry?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Holiday Destination, which is more important: Cost or Historical Sites?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Holiday Destination, which is more important: Cost or Safety?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Holiday Destination, which is more important: Ease of Entry or Historical Sites?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Holiday Destination, which is more important: Ease of Entry or Safety?","Based on the answer above, what is the strength of your preference? - 1","When choosing a Holiday Destination, which is more important: Historical Sites or Safety?","Based on the answer above, what is the strength of your preference? - 1","Debug messages will appear here.
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ease of Entry
+        
+      
+      
+       Historical Sites
+        
+      
+      
+       Safety
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Cost?","Debug messages will appear here.
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ease of Entry
+        
+      
+      
+       Historical Sites
+        
+      
+      
+       Safety
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Ease of Entry?","Debug messages will appear here.
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ease of Entry
+        
+      
+      
+       Historical Sites
+        
+      
+      
+       Safety
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Historical Sites?","Debug messages will appear here.
+
+According to your comparisons, we have calculated the following weights of importance: These weights show how important each criteria is compared to the others.
+
+
+        
+      
+       Criteria
+      
+      
+       Cost
+        
+      
+      
+       Ease of Entry
+        
+      
+      
+       Historical Sites
+        
+      
+      
+       Safety
+        
+      
+      
+    
+How strongly do you agree with these weights we have calculated? - Do you agree or disagree with the weight of Safety?",Gender,Age,"Your country of origin (in case of multiple nationalities, pick your preferred one)"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID67""}","{""ImportId"":""QID68_1""}","{""ImportId"":""QID70""}","{""ImportId"":""QID73_1""}","{""ImportId"":""QID76""}","{""ImportId"":""QID79_1""}","{""ImportId"":""QID71""}","{""ImportId"":""QID74_1""}","{""ImportId"":""QID81""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID80""}","{""ImportId"":""QID83_1""}","{""ImportId"":""QID75_1""}","{""ImportId"":""QID75_2""}","{""ImportId"":""QID75_3""}","{""ImportId"":""QID75_4""}","{""ImportId"":""QID84""}","{""ImportId"":""QID85_1""}","{""ImportId"":""QID86""}","{""ImportId"":""QID87_1""}","{""ImportId"":""QID91""}","{""ImportId"":""QID88_1""}","{""ImportId"":""QID89""}","{""ImportId"":""QID90_4""}","{""ImportId"":""QID93""}","{""ImportId"":""QID92_1""}","{""ImportId"":""QID95""}","{""ImportId"":""QID94_1""}","{""ImportId"":""QID109_1""}","{""ImportId"":""QID109_2""}","{""ImportId"":""QID109_3""}","{""ImportId"":""QID109_4""}","{""ImportId"":""QID96""}","{""ImportId"":""QID97_1""}","{""ImportId"":""QID102""}","{""ImportId"":""QID104_1""}","{""ImportId"":""QID101""}","{""ImportId"":""QID105_1""}","{""ImportId"":""QID100""}","{""ImportId"":""QID103_1""}","{""ImportId"":""QID99""}","{""ImportId"":""QID106_1""}","{""ImportId"":""QID108""}","{""ImportId"":""QID107_1""}","{""ImportId"":""QID111_1""}","{""ImportId"":""QID111_2""}","{""ImportId"":""QID111_3""}","{""ImportId"":""QID111_4""}","{""ImportId"":""QID1""}","{""ImportId"":""QID2""}","{""ImportId"":""QID3""}"
+27/07/2021 02:06,27/07/2021 02:10,0,79.73.19.91,100,271,1,27/07/2021 02:10,R_2cBJJbKC7kcPLI4,,,,,52.58869934,-1.173095703,anonymous,EN,0.899999976,2,8,2,8,1,8,3,8,1,8,1,8,1,3,3,4,1,7,2,8,2,8,2,8,2,8,3,7,2,-1,4,4,3,8,1,8,2,8,1,8,2,5,2,8,2,3,5,3,2,6,807
+27/07/2021 02:13,27/07/2021 02:18,0,151.225.38.119,100,320,1,27/07/2021 02:18,R_1NttjAXyGeWxzJ6,,,,,51.60310364,-0.183807373,anonymous,EN,0.899999976,3,5,2,7,1,8,2,7,1,7,1,7,3,2,5,1,1,7,1,7,3,6,2,7,2,7,3,5,4,5,3,3,1,9,1,9,1,8,1,8,1,8,3,6,4,2,-2,-2,1,14,731
+27/07/2021 02:23,27/07/2021 02:31,0,2.24.126.85,100,476,1,27/07/2021 02:31,R_zZvmL4vRJjufNZv,,,,,53.480896,-2.23739624,anonymous,EN,1,3,7,2,7,3,6,2,7,1,8,1,8,2,-2,4,-1,1,6,2,7,2,7,2,6,2,8,2,8,3,3,4,4,2,8,2,6,2,8,1,8,1,8,2,8,3,5,3,3,2,8,826
+27/07/2021 03:01,27/07/2021 03:04,0,103.195.203.150,100,215,1,27/07/2021 03:04,R_3RgXkIvyBHdjFJl,,,,,12.96339417,77.58551025,anonymous,EN,0.899999976,3,9,3,9,3,9,3,9,3,9,3,9,5,5,5,5,1,9,1,9,3,9,2,9,2,9,2,9,5,5,3,5,3,9,1,8,3,9,1,9,2,9,2,9,3,-2,3,2,2,7,750
+27/07/2021 03:12,27/07/2021 03:21,0,102.89.0.91,100,491,1,27/07/2021 03:21,R_26mvJoyfTAplP80,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,2,7,2,8,1,6,2,7,1,7,1,9,2,3,4,5,1,6,1,6,2,7,1,5,2,7,2,7,-1,2,2,2,1,5,1,6,2,9,2,6,2,9,2,9,1,1,1,3,2,11,807
+27/07/2021 03:25,27/07/2021 03:40,0,41.58.242.33,100,888,1,27/07/2021 03:40,R_2zABrnY7pmJn2O7,,,,,6.447402954,3.390304565,anonymous,EN,,3,8,2,8,2,8,3,8,3,8,2,8,4,3,3,4,1,8,2,8,2,9,3,8,2,8,2,8,3,1,1,5,3,8,1,9,2,8,1,8,3,9,2,8,3,2,1,5,2,12,807
+27/07/2021 03:57,27/07/2021 04:06,0,197.210.227.97,100,549,1,27/07/2021 04:06,R_1fkOcEmhWnYLuIL,,,,,4.773101807,7.008499146,anonymous,EN,0.899999976,3,7,3,9,1,7,3,8,1,7,1,8,5,5,5,5,3,6,1,7,3,7,3,5,1,6,3,7,4,4,4,4,1,5,1,8,3,8,3,6,2,7,2,6,5,2,5,5,2,16,807
+27/07/2021 03:39,27/07/2021 04:19,0,45.56.196.117,100,2422,1,27/07/2021 04:19,R_2S7CG0uzibUwHDm,,,,,37.75100708,-97.8219986,anonymous,EN,0.899999976,3,9,3,9,3,9,3,9,3,9,1,9,5,5,5,5,1,9,3,9,2,9,2,9,2,9,3,9,5,5,5,5,3,9,1,9,3,9,1,9,3,9,2,9,5,5,5,5,2,,807
+27/07/2021 03:56,27/07/2021 04:27,0,129.205.124.212,100,1847,1,27/07/2021 04:27,R_1ND0DSNAjnlUIGV,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,7,2,8,2,6,3,7,1,5,1,7,2,4,4,3,1,6,1,5,2,7,3,6,3,7,3,6,2,4,4,2,3,6,1,6,2,8,1,6,2,8,2,8,4,3,4,5,2,10,807
+27/07/2021 04:14,27/07/2021 04:43,0,41.78.118.218,100,1718,1,27/07/2021 04:43,R_2QPNwAQw2LOQV4T,,,,,13.51119995,2.117004395,anonymous,EN,0.899999976,3,2,3,4,1,7,3,5,1,7,1,7,3,3,3,3,1,4,3,4,3,3,2,6,2,5,3,4,2,2,2,2,3,5,1,6,2,7,1,7,2,6,2,6,2,2,2,2,2,10,807
+27/07/2021 03:46,27/07/2021 04:45,0,41.190.3.236,100,3518,1,27/07/2021 04:45,R_2dy8CEkGG2JdA9f,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,2,7,2,7,1,6,1,7,2,7,1,7,-1,4,4,2,2,7,3,7,2,7,1,5,1,7,3,8,1,4,4,3,1,7,2,7,2,9,2,8,2,9,3,9,1,3,4,5,2,13,807
+27/07/2021 06:43,27/07/2021 06:49,0,86.182.88.114,100,356,1,27/07/2021 06:49,R_2nHIOZMA3wMvVIt,,,,,53.46060181,-2.257202148,anonymous,EN,1,3,9,3,9,3,9,1,4,2,7,2,5,1,1,1,4,1,8,3,9,3,8,2,8,2,8,3,8,1,-2,1,1,1,7,1,7,1,6,1,8,2,6,2,6,3,2,5,2,1,9,750
+27/07/2021 06:46,27/07/2021 06:53,0,62.74.11.76,100,395,1,27/07/2021 06:53,R_24CTRNYI957fwGg,,,,,37.98420715,23.73530579,anonymous,EN,0.899999976,2,7,2,6,2,7,1,8,2,5,2,4,3,4,-2,4,3,8,3,7,1,8,1,7,1,9,1,8,2,3,4,5,1,7,3,5,1,5,2,6,2,6,1,7,3,5,2,-2,1,9,738
+27/07/2021 06:42,27/07/2021 06:55,0,197.255.164.15,100,804,1,27/07/2021 06:55,R_x60Hbo4jJ7GSlu9,,,,,10,8,anonymous,EN,1,1,9,3,9,3,9,2,9,2,9,1,9,5,3,5,4,1,8,3,8,3,9,2,8,2,9,3,9,4,3,4,5,3,9,1,9,2,9,1,9,3,9,2,9,-1,5,5,5,1,14,807
+27/07/2021 07:31,27/07/2021 07:44,0,197.210.64.81,100,810,1,27/07/2021 07:44,R_2agW8Ht6qyyCXUA,,,,,6.447402954,3.390304565,anonymous,EN,1,1,7,3,7,2,6,2,7,2,7,3,7,4,3,3,5,1,7,1,8,3,7,3,8,2,7,2,7,4,4,4,4,1,9,1,9,2,9,1,7,2,8,2,9,5,2,5,5,1,15,807
+27/07/2021 08:01,27/07/2021 08:05,0,5.151.132.242,100,191,1,27/07/2021 08:05,R_Xoy0Vu87L1pf3K9,,,,,53.480896,-2.23739624,anonymous,EN,0.899999976,1,8,1,7,1,9,2,8,1,8,1,9,3,1,1,0,1,8,1,8,1,8,2,8,2,7,2,8,3,1,1,3,1,8,1,8,1,8,1,7,2,8,2,7,3,1,1,2,2,8,702
+27/07/2021 09:18,27/07/2021 09:24,0,212.9.116.99,100,326,1,27/07/2021 09:24,R_QoK1c5iNnsrrY7T,,,,,53.47019958,-2.230499268,anonymous,EN,0.899999976,3,9,3,9,3,9,2,9,1,6,1,9,5,4,5,3,1,7,3,5,3,9,2,9,3,9,3,9,5,4,5,5,1,9,3,9,2,9,1,7,2,9,3,9,1,5,2,5,2,7,711
+28/07/2021 01:34,28/07/2021 01:40,0,197.210.84.242,100,402,1,28/07/2021 01:40,R_2rVgtOV1hkSLni0,,,,,4.773101807,7.008499146,anonymous,EN,0.899999976,3,9,2,9,2,9,2,9,1,9,1,9,-3,-3,3,3,1,9,3,9,2,9,3,9,2,9,2,9,4,5,5,5,1,9,1,9,2,9,1,9,2,9,2,9,5,5,5,5,2,9,807
+28/07/2021 01:43,28/07/2021 01:52,0,102.68.109.1,100,521,1,28/07/2021 01:52,R_1kGtgb5QDN2kaPt,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,9,3,9,2,9,3,9,3,9,3,9,5,5,5,5,1,9,3,9,2,9,3,6,2,9,2,9,5,3,3,5,3,9,1,9,3,9,1,9,3,9,2,9,5,5,5,5,1,,807
+28/07/2021 02:03,28/07/2021 02:28,0,105.112.124.40,100,1460,1,28/07/2021 02:28,R_DB67CZtQ9S1l2Df,,,,,9.17640686,7.174499512,anonymous,EN,1,2,6,2,6,1,7,2,6,1,8,1,7,2,2,4,-2,2,5,2,5,2,5,2,5,2,5,2,5,3,1,4,4,1,5,2,5,2,7,2,5,2,5,2,5,3,-1,3,5,1,21,807
+28/07/2021 01:41,28/07/2021 02:44,0,41.190.31.60,100,3824,1,28/07/2021 02:45,R_3htBMD9C8xxlPMk,,,,,6.447402954,3.390304565,anonymous,EN,1,2,9,2,9,3,9,3,9,1,9,1,9,5,5,5,5,1,9,3,9,2,9,2,9,2,9,2,9,5,5,5,5,2,7,3,9,2,9,1,9,2,9,2,9,4,-1,3,5,2,10,807
+28/07/2021 02:49,28/07/2021 02:56,0,67.242.68.55,100,418,1,28/07/2021 02:56,R_2taHP8Fl9sMJODF,,,,,42.72729492,-73.66960144,anonymous,EN,1,3,7,3,7,3,7,3,7,3,7,2,7,-3,2,3,3,1,9,1,7,3,7,2,9,2,9,2,7,3,3,3,3,1,8,2,7,2,5,2,7,2,8,2,7,-3,3,3,-2,1,9,807
+28/07/2021 03:30,28/07/2021 03:39,0,197.210.8.164,100,494,1,28/07/2021 03:39,R_2SqcHUIkegbDMMl,,,,,6.447402954,3.390304565,anonymous,EN,0.699999988,1,8,2,9,2,7,3,8,2,8,3,7,5,3,4,3,3,7,2,8,2,9,3,8,2,9,2,9,4,4,5,5,1,9,3,7,2,9,1,9,2,9,2,9,5,4,2,5,2,8,807
+28/07/2021 03:32,28/07/2021 03:39,0,151.225.209.224,100,393,1,28/07/2021 03:39,R_2BzX797GRNgoLkC,,,,,52.80580139,-0.163604736,anonymous,EN,0.899999976,2,8,2,8,2,9,1,8,2,8,2,8,3,3,-2,5,1,9,1,7,1,6,2,8,2,9,2,8,4,5,-1,-3,3,9,1,7,2,9,1,7,3,9,2,7,-3,4,2,5,1,18,807
+28/07/2021 03:36,28/07/2021 03:43,0,8.21.8.156,100,433,1,28/07/2021 03:43,R_3CUHJ3Jbiq4OudB,,,,,52.37159729,4.888305664,anonymous,EN,0.899999976,3,6,3,6,2,6,3,7,3,6,3,6,2,2,2,2,1,7,3,7,3,7,2,7,3,7,3,7,3,3,4,3,3,7,1,6,3,7,3,7,3,7,3,7,3,3,3,3,2,8,771
+28/07/2021 03:39,28/07/2021 03:56,0,41.204.237.226,100,991,1,28/07/2021 03:56,R_3hAq2BVAzw8Xotz,,,,,7.147201538,3.350494385,anonymous,EN,1,2,8,2,8,2,8,3,8,2,8,3,8,3,4,5,5,2,8,3,8,3,9,3,9,3,9,3,9,5,5,5,5,1,8,1,8,2,8,3,9,2,9,2,9,5,3,5,5,1,9,807
+28/07/2021 03:35,28/07/2021 04:01,0,102.89.1.147,100,1599,1,28/07/2021 04:01,R_1dBtdT25bUCGyED,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,5,2,7,2,8,2,8,2,7,1,7,3,3,4,4,3,7,2,7,2,8,3,7,2,7,2,7,3,3,3,3,1,7,1,7,2,7,2,7,2,7,2,7,3,4,3,3,1,10,807
+28/07/2021 04:08,28/07/2021 04:15,0,41.77.171.82,100,427,1,28/07/2021 04:15,R_1nUScQheUe6ySA2,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,1,9,3,9,1,9,3,9,1,9,1,9,5,5,5,5,1,9,3,9,3,9,2,9,2,9,2,9,5,-5,5,5,1,9,1,9,2,9,2,9,1,9,2,9,5,5,5,5,1,12,807
+28/07/2021 04:18,28/07/2021 04:35,0,197.211.58.62,100,1010,1,28/07/2021 04:35,R_d6j8fUb2S6FUGxX,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,7,2,6,3,7,1,6,3,6,3,6,2,2,3,2,2,7,3,6,2,6,3,5,3,5,3,6,0,4,0,3,1,8,1,7,2,9,3,6,2,9,2,7,2,0,1,5,1,14,807
+28/07/2021 04:18,28/07/2021 04:37,0,197.210.29.83,100,1139,1,28/07/2021 04:37,R_T59NdYcWmFblzXP,,,,,6.447402954,3.390304565,anonymous,EN,1,3,6,3,7,3,7,3,7,3,7,3,7,5,5,5,5,2,9,3,7,3,9,3,7,3,8,3,9,-2,5,5,5,3,6,1,7,2,9,1,9,2,9,2,9,-2,2,5,5,1,14,807
+28/07/2021 04:54,28/07/2021 05:00,0,197.210.55.105,100,327,1,28/07/2021 05:00,R_55vRzt8gw75OJR7,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,9,2,9,1,9,2,9,1,9,1,9,5,5,4,2,3,8,3,9,2,9,1,9,2,9,2,9,-3,2,-2,3,3,9,1,9,3,8,1,6,2,9,2,8,5,3,4,4,2,10,807
+28/07/2021 04:41,28/07/2021 05:05,0,197.210.76.165,100,1433,1,28/07/2021 05:05,R_3k1X9Q1nrL1uRiV,,,,,9.17640686,7.174499512,anonymous,EN,,3,7,2,8,2,6,3,7,2,7,1,8,-1,-1,4,3,3,6,1,7,3,6,1,9,3,6,2,8,3,3,3,4,2,6,1,6,2,6,1,6,2,7,2,7,-1,2,4,3,1,13,807
+28/07/2021 03:31,28/07/2021 05:45,0,197.242.99.108,100,8009,1,28/07/2021 05:45,R_0llSttRvTKn0aKR,,,,,6.447402954,3.390304565,anonymous,EN,0.699999988,3,6,3,7,3,9,2,8,2,8,3,8,5,5,5,2,1,9,1,9,3,9,2,9,2,9,3,8,5,2,2,3,3,8,1,8,3,9,1,9,3,9,2,7,5,5,3,5,2,14,807
+28/07/2021 06:16,28/07/2021 06:28,0,197.210.52.133,100,746,1,28/07/2021 06:28,R_1HdHDpLy6JlMz4E,,,,,9.17640686,7.174499512,anonymous,EN,0.899999976,2,9,2,8,2,7,2,6,1,7,1,7,3,4,4,2,3,6,1,6,2,8,3,6,2,7,2,7,5,5,5,5,1,6,2,6,2,6,1,6,3,6,2,6,5,4,3,4,2,15,807
+28/07/2021 06:54,28/07/2021 07:30,0,41.58.160.138,100,2171,1,28/07/2021 07:30,R_3O3aQClpo1w4MUL,,,,,6.447402954,3.390304565,anonymous,EN,,2,9,2,9,2,9,1,8,1,8,1,9,3,5,5,3,3,5,1,8,2,9,2,7,2,8,2,8,3,2,2,2,1,8,2,7,2,9,2,8,2,9,2,9,3,5,4,5,1,14,807
+28/07/2021 04:22,28/07/2021 07:46,0,197.210.64.239,100,12240,1,28/07/2021 07:46,R_31H5Kxz2eMndxZU,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,2,9,2,9,2,9,2,9,1,9,1,9,5,2,5,5,3,9,1,6,1,6,3,9,2,9,3,9,5,3,2,3,1,9,1,9,2,9,1,9,2,9,2,9,5,2,2,5,2,15,807
+28/07/2021 12:53,28/07/2021 13:01,0,197.210.71.41,100,516,1,28/07/2021 13:01,R_2f9Xao7LLPFCOeO,,,,,9.17640686,7.174499512,anonymous,EN,0.899999976,3,6,1,7,1,9,2,6,1,9,1,7,5,3,3,3,1,8,3,7,2,9,2,7,2,9,2,9,4,4,4,4,1,8,1,9,2,9,3,6,2,9,2,9,5,4,4,5,1,11,807
+28/07/2021 13:51,28/07/2021 13:56,0,197.210.44.170,100,340,1,28/07/2021 13:56,R_3lyqZO18bOAHlvu,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,9,3,9,3,9,3,9,3,9,3,9,5,5,5,5,3,9,3,9,2,9,2,9,2,9,3,8,5,5,5,5,1,8,2,7,2,9,1,9,2,9,2,9,-2,4,1,4,2,13,807
+29/07/2021 06:13,29/07/2021 06:24,0,41.73.10.181,100,659,1,29/07/2021 06:24,R_1QSFKC89w2f7I3f,,,,,9.083297729,7.533294678,anonymous,EN,0.899999976,3,6,1,7,2,7,1,7,1,7,2,7,5,5,5,5,1,9,1,9,3,9,2,6,2,7,2,7,5,5,3,5,3,6,1,6,1,6,2,6,1,6,1,7,5,-5,-5,5,2,9,807
+29/07/2021 06:37,29/07/2021 06:47,0,197.210.54.8,100,601,1,29/07/2021 06:47,R_3gYQHKkmI2v6dRs,,,,,4.773101807,7.008499146,anonymous,EN,0.899999976,2,7,2,8,3,7,3,7,1,8,1,8,-1,4,4,-1,2,7,3,6,2,8,1,6,3,7,2,7,-2,3,-1,4,1,7,1,7,2,8,2,7,2,7,2,8,3,-1,1,5,2,11,807
+29/07/2021 06:48,29/07/2021 06:53,0,197.210.54.161,100,347,1,29/07/2021 06:53,R_2bNJ0jgP0i3Ux0o,,,,,4.773101807,7.008499146,anonymous,EN,0.899999976,2,5,2,8,1,7,3,8,1,8,1,7,4,3,3,4,3,7,1,7,2,8,1,8,3,8,2,9,5,5,5,4,2,8,2,8,2,8,2,8,2,8,3,8,5,5,4,5,1,13,807
+29/07/2021 06:49,29/07/2021 07:01,0,105.112.100.125,100,768,1,29/07/2021 07:01,R_1pzfBuQFlzaOoXh,,,,,6.440002441,7.492202759,anonymous,EN,1,3,8,2,9,2,8,3,8,1,8,1,9,3,3,5,3,2,9,2,8,2,9,3,8,3,8,3,8,2,3,3,2,2,8,2,9,2,9,2,8,2,9,2,9,3,3,2,5,1,9,807
+29/07/2021 06:54,29/07/2021 07:21,0,197.210.8.39,100,1640,1,29/07/2021 07:21,R_2rx595zqQirfLmz,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,8,1,8,2,8,1,9,1,8,1,8,-3,4,-4,-4,1,7,2,8,2,8,2,7,2,5,1,7,3,3,3,5,2,8,1,8,2,8,1,8,2,8,2,8,2,4,3,4,2,6,807
+30/07/2021 05:44,30/07/2021 05:51,0,197.210.47.23,100,411,1,30/07/2021 05:51,R_12ar9L06KLFiWlh,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,1,7,3,6,1,8,2,7,1,6,1,7,5,1,2,1,1,6,1,6,3,5,3,4,2,5,2,5,3,3,2,3,3,5,1,8,3,5,1,5,2,6,2,7,3,1,1,-2,1,8,807
+30/07/2021 08:33,30/07/2021 08:41,0,59.96.157.150,100,457,1,30/07/2021 08:41,R_bBdtZJvsAPdBf3P,,,,,14.6802063,77.625,anonymous,EN,1,3,8,3,8,3,8,3,8,3,8,3,8,5,5,5,5,3,8,2,8,3,8,1,8,1,8,2,8,5,5,5,5,3,8,3,8,3,8,3,8,3,8,3,8,5,5,5,5,2,9,750
+30/07/2021 09:08,30/07/2021 09:15,0,73.83.118.247,100,418,1,30/07/2021 09:15,R_2xyGKydNRMEEPWW,,,,,47.57310486,-122.7046051,anonymous,EN,0.899999976,1,7,2,7,1,7,2,7,1,7,1,9,2,4,-1,4,1,7,1,7,2,7,2,7,2,7,2,7,4,4,4,4,1,8,1,7,2,8,1,8,2,7,2,8,4,4,4,4,1,12,871
+30/07/2021 12:06,30/07/2021 12:22,0,197.210.28.189,100,910,1,30/07/2021 12:22,R_1Q4TrJrZxq4oewq,,,,,6.447402954,3.390304565,anonymous,EN,,2,9,2,8,3,8,2,8,2,6,1,5,4,4,4,4,1,6,1,7,2,8,2,7,2,8,2,7,4,4,-3,3,1,6,3,7,2,9,1,6,2,7,2,6,-2,-3,3,5,1,10,807
+30/07/2021 13:03,30/07/2021 13:11,0,197.210.29.220,100,440,1,30/07/2021 13:11,R_qDd7Sq5V8Ah4xgt,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,8,3,8,3,8,3,9,3,9,3,9,3,4,4,3,2,7,2,7,2,9,3,8,2,8,2,8,3,3,3,3,3,7,2,6,2,9,3,8,3,7,2,9,2,2,2,4,1,7,807
+30/07/2021 13:12,30/07/2021 13:18,0,197.210.65.73,100,385,1,30/07/2021 13:18,R_UbAeyoIwXk7WmKl,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,1,9,1,9,1,9,2,9,1,9,1,9,2,4,3,3,1,8,2,8,3,8,2,8,2,7,1,8,3,1,2,2,1,8,1,8,2,8,1,7,2,7,2,8,4,2,1,3,1,4,807
+30/07/2021 13:24,30/07/2021 13:36,0,79.73.19.91,100,672,1,30/07/2021 13:36,R_3gZ9y40pnYH623g,,,,,52.57060242,-0.970794678,anonymous,EN,0.899999976,1,6,3,7,1,6,2,8,3,5,1,7,4,4,4,5,1,8,2,8,1,6,2,5,2,6,2,7,-3,4,-2,2,3,6,2,3,2,8,2,3,2,8,2,7,-2,3,3,5,1,21,870
+31/07/2021 03:32,31/07/2021 03:48,0,197.210.29.217,100,978,1,31/07/2021 03:48,R_2fHtraJKSxxlkwh,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,2,6,3,6,3,6,3,6,3,6,3,6,2,1,2,1,2,6,2,6,3,6,3,6,3,6,3,6,2,2,3,3,3,6,2,5,3,7,1,8,2,8,2,8,3,4,1,4,1,11,807
+31/07/2021 23:04,31/07/2021 23:12,0,190.11.3.185,100,508,1,31/07/2021 23:12,R_1fjW8LiXvkcgsFz,,,,,-0.214294434,-78.50170135,anonymous,EN,1,3,9,3,9,3,8,3,9,3,9,3,9,5,5,5,5,1,7,2,7,2,8,3,8,2,9,2,9,4,4,5,4,2,8,1,7,3,9,3,9,2,8,3,9,4,4,5,3,2,8,720
+01/08/2021 07:30,01/08/2021 08:04,0,197.211.58.66,100,2016,1,01/08/2021 08:04,R_XNHc4iiVzsRKPct,,,,,6.447402954,3.390304565,anonymous,EN,0.800000012,2,5,2,5,2,5,2,5,2,5,1,5,5,5,5,5,2,5,1,5,2,5,1,2,2,5,2,5,5,5,5,5,1,5,1,5,2,7,1,5,2,7,2,7,-5,-5,-5,-5,2,9,870
+01/08/2021 10:23,01/08/2021 10:57,0,102.91.29.84,100,2057,1,01/08/2021 10:57,R_CgLQJSuBCtlG7ZL,,,,,6.447402954,3.390304565,anonymous,EN,0.800000012,2,8,2,7,2,6,3,7,3,7,1,7,5,5,5,5,1,4,2,6,2,6,1,5,2,6,3,5,5,5,5,5,3,6,1,5,2,8,1,5,3,7,2,7,4,4,1,5,2,14,807
+01/08/2021 10:48,01/08/2021 10:58,0,197.211.58.63,100,603,1,01/08/2021 10:58,R_3EYez1bPFpjIEau,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,2,8,2,8,2,8,2,8,3,7,3,7,3,3,3,3,1,6,3,6,2,8,3,6,2,7,2,7,2,2,3,5,1,7,1,6,3,8,1,7,3,7,2,7,3,3,5,5,1,14,807
+01/08/2021 11:37,01/08/2021 11:44,0,41.71.95.150,100,437,1,01/08/2021 11:44,R_30tKPjWlUnROzpR,,,,,-34.04859924,18.48109436,anonymous,EN,1,2,8,2,8,2,9,2,9,1,9,1,9,5,5,5,5,1,9,1,9,1,9,2,9,2,9,2,9,5,4,4,4,3,7,1,8,2,9,1,8,2,9,2,9,5,4,4,4,1,17,807
+01/08/2021 12:36,01/08/2021 12:41,0,213.205.194.255,100,314,1,01/08/2021 12:41,R_RfsoVglwUsBK8Rr,,,,,51.38729858,-0.159606934,anonymous,EN,1,2,7,2,7,1,7,2,7,1,7,1,7,1,4,5,3,1,6,1,8,2,8,2,7,2,7,2,8,4,4,5,3,2,9,2,7,2,8,1,8,2,8,2,7,3,3,3,3,1,18,807
+01/08/2021 12:33,01/08/2021 12:55,0,196.220.192.194,100,1281,1,01/08/2021 12:55,R_3kzfszZsgo8FtZM,,,,,9.141403198,9.782104492,anonymous,EN,0.800000012,2,8,2,9,3,7,3,9,3,6,1,7,-3,2,3,-3,3,6,3,6,3,6,1,5,3,6,2,6,0,-2,0,4,3,7,3,6,2,9,1,6,2,9,2,9,-2,-4,0,5,2,7,807
+01/08/2021 13:30,01/08/2021 13:36,0,88.105.123.154,100,385,1,01/08/2021 13:36,R_3LhZPQcrsgf83ej,,,,,53.09190369,-2.384796143,anonymous,EN,0.899999976,3,8,2,7,3,6,3,6,2,7,3,6,1,0,1,0,1,6,1,6,2,8,1,6,2,7,2,8,-1,-1,1,0,3,6,1,8,2,6,1,6,2,8,2,7,1,0,1,0,2,17,737
+01/08/2021 13:10,01/08/2021 13:48,0,129.205.124.203,100,2261,1,01/08/2021 13:48,R_1dnrQSBdOrQtZ0G,,,,,6.447402954,3.390304565,anonymous,EN,0.899999976,3,6,3,6,2,6,2,6,3,6,3,6,5,-2,3,1,2,6,3,6,1,6,2,6,2,6,2,6,3,2,2,2,3,6,2,6,2,6,1,6,3,6,2,6,2,3,1,3,1,19,807
+01/08/2021 16:41,01/08/2021 16:46,0,78.86.135.17,100,291,1,01/08/2021 16:46,R_cU4sRfCTDrgbuil,,,,,51.49639893,-0.122406006,anonymous,EN,1,3,9,2,9,2,9,3,9,3,9,3,9,4,5,5,5,3,9,3,9,3,9,3,9,3,9,3,9,5,5,5,5,1,9,1,9,2,9,1,9,2,9,2,9,5,5,5,5,1,17,807
+01/08/2021 16:51,01/08/2021 16:56,0,5.151.214.54,100,338,1,01/08/2021 16:56,R_3OiGr1q94aJ229X,,,,,53.79449463,-1.552398682,anonymous,EN,1,2,6,1,5,3,5,1,4,1,4,1,4,2,3,-1,2,1,8,2,7,1,6,2,6,2,6,3,6,4,3,-1,2,2,8,2,7,2,6,1,7,2,8,2,6,4,0,-3,3,2,6,702
+02/08/2021 10:26,02/08/2021 10:30,0,213.18.162.247,100,258,1,02/08/2021 10:30,R_2uWLD32h29hL4Ew,,,,,51.82090759,-0.013305664,anonymous,EN,1,3,9,3,5,3,8,3,8,3,7,3,7,5,5,5,5,1,4,3,6,3,9,2,5,3,5,3,5,5,5,5,5,1,9,2,9,2,6,2,8,2,6,1,8,5,5,5,5,1,9,870
+02/08/2021 23:09,02/08/2021 23:18,0,50.5.90.233,100,557,1,02/08/2021 23:18,R_3s7waNchiDn7wgR,,,,,39.33599854,-84.31259918,anonymous,EN,0.899999976,3,9,1,6,1,6,1,5,2,7,2,8,3,5,4,4,1,9,1,8,1,9,2,9,2,8,1,9,1,5,-1,0,1,7,1,9,2,8,1,7,2,7,2,8,3,1,5,3,2,12,871
+03/08/2021 04:42,03/08/2021 04:49,0,178.78.92.57,100,397,1,03/08/2021 04:49,R_1eCZCtbePBAUqzo,,,,,53.74279785,-0.267196655,anonymous,EN,1,3,9,3,9,3,9,3,9,3,8,3,8,5,5,5,5,1,8,3,9,3,9,2,8,2,8,3,9,5,5,5,5,3,8,3,8,3,8,3,8,2,9,2,9,2,2,1,5,2,19,807
+03/08/2021 18:33,03/08/2021 18:42,0,149.71.79.202,100,529,1,03/08/2021 18:42,R_3s4YblIs43DvoXX,,,,,52.03610229,-0.7006073,anonymous,EN,1,3,9,3,9,1,7,3,8,1,8,1,8,4,4,4,4,1,8,3,7,3,9,2,7,2,8,3,8,3,3,3,3,3,9,3,7,3,9,1,8,3,8,2,9,3,3,3,3,1,23,807
+04/08/2021 09:15,04/08/2021 09:26,0,80.47.168.68,100,675,1,04/08/2021 09:26,R_VIogowtmEbe6tYB,,,,,53.82580566,-1.520492554,anonymous,EN,0.899999976,3,5,1,7,1,8,1,8,1,8,1,8,5,5,5,5,3,5,1,6,1,6,1,7,3,6,2,8,0,0,1,1,1,6,1,8,2,8,3,6,2,8,2,8,2,2,2,0,1,44,870
+05/08/2021 03:01,05/08/2021 03:09,0,178.197.228.121,100,483,1,05/08/2021 03:09,R_3QWRAcDePWqi6mi,,,,,47.36819458,8.567092896,anonymous,EN,1,1,9,2,9,1,7,2,8,1,9,1,8,3,2,3,3,1,6,2,7,2,7,2,8,2,7,2,7,2,4,3,3,2,7,1,8,2,6,1,8,1,7,2,6,4,3,3,3,1,10,852
+05/08/2021 05:12,05/08/2021 05:23,0,92.5.249.180,100,646,1,05/08/2021 05:23,R_2pYrbX1IlQZy6cq,,,,,53.49159241,-2.30090332,anonymous,EN,1,1,8,3,8,3,5,2,8,2,6,3,7,5,2,5,5,1,7,3,7,3,6,2,5,2,5,3,7,4,2,4,4,1,6,1,7,3,8,1,5,2,7,2,7,5,2,2,5,1,8,882
+06/08/2021 06:32,06/08/2021 06:40,0,130.88.226.27,100,457,1,06/08/2021 06:40,R_21h1FzUsGQ9PYYX,,,,,53.47019958,-2.230499268,anonymous,EN,1,3,7,3,7,1,7,2,7,1,7,1,7,4,4,4,4,3,6,2,7,2,7,2,6,2,6,3,6,4,4,4,4,3,6,2,6,2,7,1,7,2,7,2,7,4,4,4,4,2,18,807
+07/08/2021 22:30,07/08/2021 22:37,0,8.208.81.129,100,402,1,07/08/2021 22:37,R_1DupBTGiFVCAyWX,,,,,51.50950623,-0.095504761,anonymous,EN,1,1,4,2,4,3,3,2,5,2,4,3,4,1,1,1,1,3,2,2,5,3,4,3,3,3,4,1,5,1,1,1,-1,3,4,3,4,2,7,3,3,2,7,2,7,1,1,1,1,2,7,702
